@@ -2,12 +2,12 @@
 
 
 ## Goals: ##
-*Create a pcb
-*Music controls
-  *Song skip
-  *Song play
-  *Song pause
-*Volume control - though rotary encoder
+* Create a pcb
+* Music controls
+  * Song skip
+  * Song play
+  * Song pause
+* Volume control - though rotary encoder
 
 
 # Images #
