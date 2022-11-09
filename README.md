@@ -1,7 +1,7 @@
 # Volume mixer and audio controller (first pcb design) #
 
 
-##Goals:##
+## Goals: ##
 *Create a pcb
 *Music controls
   *Song skip
