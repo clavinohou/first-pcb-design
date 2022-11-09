@@ -12,7 +12,7 @@
 
 # Images #
 
-![picture alt] (https://cdn.discordapp.com/attachments/970188490346229790/1039773040604626964/image.png "KiCad screenshot")
+![picture alt](https://cdn.discordapp.com/attachments/970188490346229790/1039773040604626964/image.png "KiCad screenshot")
 
 ![picture alt] (https://cdn.discordapp.com/attachments/970188490346229790/1039773762842800178/image.png "PCB Render")
 
