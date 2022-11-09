@@ -9,6 +9,10 @@
   * Song pause
 * Volume control - though rotary encoder
 
+## Design: ##
+
+Its basically an Arduino Pro Micro just put in the form factor that I wanted. It features 4 MX style contacts for your switches to sit on. There is also a pinout for a rotary encoder for volume adjustment. In the final design I plan to just solder wires to the rotary encoder since the knob I want wont be able to sit right next to the switches. I will make a branch with the code that I eventually use, as well as another branch for the .stl I eventually create, but for now I'm just making sure the circut board actually works.
+
 
 # Images #
 
